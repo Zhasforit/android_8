@@ -1,6 +1,6 @@
 # IZT2_Android_JSoup
 Технология JSOUP для работы с html
 
-![Screenshot](screen.jpg)
+![Screenshot](screen.png)
 
-![Screenshot](screen1.jpg)
+![Screenshot](screen1.png)
